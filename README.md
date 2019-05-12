@@ -151,6 +151,6 @@ Your website is pre-configured to use [a very flexible CSS framework called "Pri
 
 You are, of course, welcome to remove it or replace it with another framework. Just bear in mind that the HTML that your website came pre-packaged with references multiple Primer "utility classes" to define things like column widths, margins, and background colors.
 
-## License
+## Licenses
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
