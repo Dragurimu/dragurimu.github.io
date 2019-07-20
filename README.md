@@ -92,7 +92,7 @@ layout: default
 
 4. Save.
 
-## Adding blog posts
+## Adding blog post's
 
 To **add a blog post** to your website:
 
